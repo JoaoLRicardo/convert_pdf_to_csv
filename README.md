@@ -1,4 +1,4 @@
-## convert_pdf_to_csv
+# convert_pdf_to_csv
 
 Python script created in partnership with my friend [LFernandoMB](https://github.com/LFernandoMB) that converts the text of a pdf file to csv.
 
